@@ -9,3 +9,7 @@
 - To allow for local file storage use run `./vendor/bin/sail artisan storage:link`
 
 The API will be running on http://localhost:8989
+
+## Running Tests
+
+`./vendor/bin/sail test`
